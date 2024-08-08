@@ -1,0 +1,21 @@
+[
+    {
+      "nome": "Paracetamol",
+      "preço": 5.5,
+      "descrição": "Analgésico e antitérmico, indicado para alívio da dor e febre.",
+      "estoque": 100
+    },
+    {
+      "nome": "Ibuprofeno",
+      "preço": 12.0,
+      "descrição": "Anti-inflamatório, analgésico e antitérmico, usado para alívio de dores e inflamações.",
+      "estoque": 80
+    },
+    {
+      "nome": "Dipirona",
+      "preço": 6.0,
+      "descrição": "Analgésico e antitérmico, utilizado no tratamento de dores e febres.",
+      "estoque": 50
+    }
+  ]
+  
